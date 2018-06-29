@@ -9,5 +9,5 @@
 <li>虚拟内存页面置换算法(FIFO、OPI、LRU)</li>
 <li>磁盘调度算法(FCFS、SSTF、SCAN、CSCAN)</li>
 </ol>
-## 语言
+<b>语言</b><br/>
 除《高响应比优先调度和时间片轮转RR进程调度算法》使用java外，都使用python
